@@ -138,15 +138,4 @@ Below is an explanation of the key files in the repository and how they fit into
 
 ## 7. Conclusion
 
-This project successfully tackles the ELO Merchant Category Recommendation challenge with a **focused, novel strategy**: outlier detection + two specialized regression models, backed by thorough feature engineering and hyperparameter tuning. The high leaderboard placement demonstrates the effectiveness of the approach. 
-
-**Recruiters** and data science practitioners can see from this repository:
-- A clean, modular codebase.
-- Mastery of feature engineering and model selection.
-- An intelligent handling of real-world data challenges (missing data, outliers, large dimensionality).
-
-Feel free to explore the notebooks, tweak the hyperparameters, and use the methodology as a starting point for similar regression or ranking tasks in the future.
-
----
-
-**Thank you for reviewing this project.** If you have any further questions or would like to discuss the approach in detail, please reach out!
+This project successfully tackles the ELO Merchant Category Recommendation challenge with a **focused, novel strategy**: outlier detection + two specialized regression models, backed by thorough feature engineering and hyperparameter tuning. The high leaderboard placement demonstrates the effectiveness of the approach.
